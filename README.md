@@ -3,6 +3,12 @@
 
 #Before running the app, ensure the following are installed on your machine:
 
+
+api key creation free go to : https://home.openweathermap.org
+sign in and create a free api key and populate the api key in backend.py
+
+
+Note to use the 
 Python 3.10+
 
 pip (Python package installer)
