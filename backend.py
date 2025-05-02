@@ -1,7 +1,7 @@
 import requests
 import pandas as pd
 
-API_key = "c1d18053ab9eb532bdb58b01c7535d81"
+API_key = ""
 
 
 def get_data(place,forecast_days=None):
